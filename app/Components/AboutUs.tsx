@@ -4,7 +4,7 @@ import { FaFacebook } from "react-icons/fa6";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { FaTelegram } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
-import Map from "./Map";
+//import Map from "./Map";
 const AboutUs = () => {
   return (
     <div className="p-2 mt-10 text-teal-800 w-[95%] mx-auto">
